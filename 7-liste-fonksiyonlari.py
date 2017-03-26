@@ -2,7 +2,7 @@ meyveler = ["elma", "muz", 5, 5.8, True]
 print (meyveler)
 
 
-meyveler.remove(1)                             #.remove  ==>  indis numarasina gore siler
+meyveler.remove("elma")                             #.remove  ==>  parantezde belirtilen elemani siler
 print (meyveler)
 
 
