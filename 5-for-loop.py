@@ -1,8 +1,3 @@
-# in kelimesi İngilizcede ‘içinde’ anlamına geliyor.
-# Dolayısıyla for falanca in filanca
-# yazdığımızda aslında şöyle bir şey demiş oluyoruz:
-# filanca içinde falanca adını verdiğimiz herbir öğe için...
-
 cumle = "We wanted Python"
 
 for harf in cumle:
@@ -10,7 +5,7 @@ for harf in cumle:
 
 print("\n---------------------------------------\n")
 
-for i in range(0,10,2):                             # EKSİLTMEYİ DE GOSTER     range(10,0,-1)
+for i in range(0,10,2):                            
     print (i)
 
 print("\n---------------------------------------\n")
