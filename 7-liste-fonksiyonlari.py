@@ -23,5 +23,5 @@ meyveler.insert(1, "karpuz")                    #.insert  ==> (indis, 'eklenecek
 print (meyveler)
 
 
-print (meyveler.pop(len(meyveler) - 1))         #.pop     ==> sondaki elamani atar.
+print (meyveler.pop(len(meyveler) - 1))         #.pop     ==> listenin sondan 1. elemanini atar.
 print (meyveler)
