@@ -1,4 +1,7 @@
+### fonksiyondalambda isimli .py dosyamızı buraya import ettik ###
+
 from fonksiyondalambda import *
+
 
 giriş = """
 (1) topla
