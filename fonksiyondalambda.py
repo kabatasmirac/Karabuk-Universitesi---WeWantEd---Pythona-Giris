@@ -1,3 +1,5 @@
+#### modul olarak cagırdık ###
+
 carp = lambda sayi1,sayi2 : sayi1 * sayi2
 
 bol  = lambda sayi1,sayi2 : sayi1 / sayi2
